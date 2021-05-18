@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="490dp"
+    android:height="490dp"
+    android:viewportWidth="490"
+    android:viewportHeight="490">
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M480,220H300V10c0-5.522-4.477-10-10-10H10C4.477,0,0,4.478,0,10v470c0,5.522,4.477,10,10,10h265c5.523,0,10-4.478,10-10 v-30h120v30c0,5.522,4.477,10,10,10h35c5.523,0,10-4.478,10-10v-30h5c5.523,0,10-4.478,10-10V275h5c5.523,0,10-4.478,10-10v-35 C490,224.478,485.523,220,480,220z M140,470H20v-85h120V470z M140,365H20V20h120V365z M230,470h-70V20h120v200h-75 c-5.523,0-10,4.478-10,10v35c0,5.522,4.477,10,10,10h10v165c0,5.522,4.477,10,10,10h5V470z M265,470h-15v-20h15V470z M440,470 h-15v-20h15V470z M455,430H235v-70h220V430z M455,340H235v-65h220V340z M470,255H215v-15h255V255z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 330 295 H 360 V 315 H 330 V 295 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 330 380 H 360 V 400 H 330 V 380 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 180 160 H 200 V 200 H 180 V 160 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 100 160 H 120 V 200 H 100 V 160 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 65 415 H 95 V 435 H 65 V 415 Z" />
+</vector>
